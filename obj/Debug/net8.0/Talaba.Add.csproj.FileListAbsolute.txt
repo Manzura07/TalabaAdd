@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\bin\Debug\net8.0\Talaba.Add.exe
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\bin\Debug\net8.0\Talaba.Add.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\bin\Debug\net8.0\Talaba.Add.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\bin\Debug\net8.0\Talaba.Add.dll
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\bin\Debug\net8.0\Talaba.Add.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.dll
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\refint\Talaba.Add.dll
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\Talaba.Add.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\VScode\Talaba.Add\obj\Debug\net8.0\ref\Talaba.Add.dll
